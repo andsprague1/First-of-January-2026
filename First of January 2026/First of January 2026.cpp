@@ -7,6 +7,7 @@ int main()
 {
     //Calculate a circle
     std::cout << "Hello Twenty First Of January!\n";
+    std::cout << "\nThank you! Mappy late New MLK day!";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
